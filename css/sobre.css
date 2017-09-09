@@ -1,0 +1,103 @@
+#sobreNos {
+	width:970px;
+	margin: 10px auto 5px auto;
+	display:block;	
+	position:relative;
+		
+}
+
+
+#sobreNos .line {
+	width:600px;
+	margin:0px auto 20px auto;
+	height:1px;
+	z-index:-40;
+	background:#d0d0d0;
+	display:block;
+	position:relative;
+	top:-35px;
+	
+}
+
+#sobreNos .titulo {
+	color:#A0A0A0;
+	font-size:60px;
+	font-family: 'Tangerine', cursive;
+	text-shadow:0px 0px 1px #fff;
+	margin:40px auto 10px auto;
+	background:#fafafa;
+	width:300px;
+	text-align:center;
+	display:block;
+}
+
+#sobreNos .box {
+	display:inline-block;
+	float:left;
+	margin:0px 20px 10px 10px;
+}
+
+#sobreNos .inner {
+	display:block;
+	float:left;
+	padding:5px 5px 5px 5px;
+	
+	background:#ffffff;
+	border:1px solid #1f1f1f;
+}
+
+#sobreNos .subtitulo1 {
+	display:inline-block;
+	font-size:20px;
+	color:#000000;
+}
+
+#sobreNos .descricao {
+	display:block;
+	color:#1f1f1f;
+	line-height:1.8;
+	text-shadow:0px 0px 1px #fff;
+	
+	margin:0px 0px 100px 0px;
+	
+	
+}
+
+#sobreNos .textoCentralizado {
+	display:block;
+	color:#1f1f1f;
+	line-height:1.8;
+	text-align:center;
+	text-shadow:0px 0px 1px #fff;
+	width:970px;
+	height:auto;
+	margin:0px auto 100px auto;
+}
+
+
+#sobreNos .pontosCentralizado {
+	display:block;
+	color:#1f1f1f;
+	line-height:1.8;
+	width:300px;
+	text-align:center;
+	text-shadow:0px 0px 1px #fff;
+	margin:0px auto 100px auto;
+}
+
+#sobreNos .pontosCentralizado ul {
+	list-style-type: none;
+}
+
+
+
+#sobreNos .verticalSpace {
+	display:block;
+	width:100%;
+	height:30px;
+}
+
+
+
+
+

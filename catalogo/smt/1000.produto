@@ -1,0 +1,43 @@
+<? 
+/**
+*  Intelligy Networks - Todos os Direitos Reservados
+*  Autor:  Valdir C. Guerra
+*  Data de Criação: 28/01/2015
+*
+*  Versao: 1.0
+*
+*  É proibido sob pena de Lei a utilização ou reprodução de parte ou de todo conteudo desse codigo sem a previa autorização da Intelligy Networks
+*  Esse Site é concedido com licença de uso autorizada somente durante o periodo em que o cliente estiver com um contrato de hospedagem vigente
+*  com a Intelligy Networks, Não podendo ser replicado, copiado, emprestado ou concedido. 
+*/	
+	
+	// PRODUTO
+	$produto->categoria 	= "Screen Printer"; 
+	$produto->identificacao	= "Screen Printer Manual";
+	$produto->descricao 	= "Equipamento desenvolvido para pequenas produções ou protótipos
+	Área de trabalho:
+	STP-350 = 457 x 330mm
+	STP-550 = 584 x 431mm";
+	
+	// ESPECIFICAÇÕES
+	$produto->especificacao	= "";
+	$produto->marca 	 	= "SMTmax";
+	$produto->modelo 	 	= "STP-350/550";
+	$produto->serie 	 	= "";
+	$produto->anoFabricacao = "";
+	$produto->capacidade 	= "";
+	$produto->consumo 	 	= "";
+	$produto->cor 	 		= "";
+	$produto->peso 	 		= "28 Kg";
+	$produto->largura 	 	= "";
+	$produto->altura 	 	= "";
+	$produto->comprimento	= "";
+	$produto->partnumber 	= "";
+	$produto->estado 		= "";
+	$produto->obsTecnica 	= "";
+	
+	// VIDEO
+	$produto->youtubeCode 	= "";
+	$produto->videoTitulo 	= "";
+?>
+

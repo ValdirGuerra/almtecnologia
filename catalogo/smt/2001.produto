@@ -1,0 +1,40 @@
+<?
+/**
+*  Intelligy Networks - Todos os Direitos Reservados
+*  Autor:  Valdir C. Guerra
+*  Data de Criação: 28/01/2015
+*
+*  Versao: 1.0
+*
+*  É proibido sob pena de Lei a utilização ou reprodução de parte ou de todo conteudo desse codigo sem a previa autorização da Intelligy Networks
+*  Esse Site é concedido com licença de uso autorizada somente durante o periodo em que o cliente estiver com um contrato de hospedagem vigente
+*  com a Intelligy Networks, Não podendo ser replicado, copiado, emprestado ou concedido. 
+*/	
+
+	// PRODUTO
+	$produto->categoria 	= "Lead Forming"; 
+	$produto->identificacao	= "C5D";
+	$produto->descricao 	= "lead forming machine, wave soldering machine, turnkey solution equipment, pcb insertion line equipment, pcb depaneling machine, smt soldering printing";
+	
+	// ESPECIFICAÇÕES
+	$produto->especificacao	= "XYZ";
+	$produto->marca 	 	= "XYZ";
+	$produto->modelo 	 	= "HQRS";
+	$produto->serie 	 	= "Serie";
+	$produto->anoFabricacao = "2015";
+	$produto->capacidade 	= "999/MPBS";
+	$produto->consumo 	 	= "20W";
+	$produto->cor 	 		= "Preto";
+	$produto->peso 	 		= "20T";
+	$produto->largura 	 	= "323mm";
+	$produto->altura 	 	= "245mm";
+	$produto->comprimento	= "233mm";
+	$produto->partnumber 	= "XASSS12S2LK1";
+	$produto->estado 		= "Novo";
+	$produto->obsTecnica 	= "NONONONONNONONONONONO";
+	
+	// VIDEO
+	$produto->youtubeCode 	= "Wiu4Sdvv8vk";
+	$produto->videoTitulo 	= "nonononon";
+?>
+

@@ -1,0 +1,40 @@
+<? 
+/**
+*  Intelligy Networks - Todos os Direitos Reservados
+*  Autor:  Valdir C. Guerra
+*  Data de Criação: 28/01/2015
+*
+*  Versao: 1.0
+*
+*  É proibido sob pena de Lei a utilização ou reprodução de parte ou de todo conteudo desse codigo sem a previa autorização da Intelligy Networks
+*  Esse Site é concedido com licença de uso autorizada somente durante o periodo em que o cliente estiver com um contrato de hospedagem vigente
+*  com a Intelligy Networks, Não podendo ser replicado, copiado, emprestado ou concedido. 
+*/	
+
+	// PRODUTO
+	$produto->categoria 	= "Screen Printer"; 
+	$produto->identificacao	= "SCREEN PRINTER MANUAL COM MESA RETRÁTIL";
+	$produto->descricao 	= "Equipamento desenvolvido para pequenas produções  ";
+	
+	// ESPECIFICAÇÕES
+	$produto->especificacao	= "Tamanho máximo da PCB: 300 x 260mm / Tamanho do Stencil: 360 x 260mm";
+	$produto->marca 	 	= "SMTmax";
+	$produto->modelo 	 	= "QSY-3401";
+	$produto->serie 	 	= "";
+	$produto->anoFabricacao = "";
+	$produto->capacidade 	= "";
+	$produto->consumo 	 	= "";
+	$produto->cor 	 		= "";
+	$produto->peso 	 		= "35Kg";
+	$produto->largura 	 	= "740mm";
+	$produto->altura 	 	= "250mm";
+	$produto->comprimento	= "500mm";
+	$produto->partnumber 	= "";
+	$produto->estado 		= "";
+	$produto->obsTecnica 	= "";
+	
+	// VIDEO
+	$produto->youtubeCode 	= "";
+	$produto->videoTitulo 	= "";
+?>
+

@@ -1,0 +1,66 @@
+
+#servicos {
+	width:970px;
+	margin: 10px auto 5px auto;
+	display:block;	
+	position:relative;
+	text-align:center;
+}
+
+
+#servicos .line {
+	width:600px;
+	margin:0px auto 20px auto;
+	height:1px;
+	z-index:-40;
+	background:#d0d0d0;
+	display:block;
+	position:relative;
+	top:-35px;
+	
+}
+
+#servicos .titulo {
+	color:#A0A0A0;
+	font-size:60px;
+	font-family: 'Tangerine', cursive;
+	text-shadow:0px 0px 1px #fff;
+	margin:40px auto 10px auto;
+	background:#fafafa;
+	width:300px;
+	text-align:center;
+	display:block;
+}
+
+#servicos .faixa {
+	font-size:14px;
+	color:#1f1f1f;
+	position:relative;
+	display:block;
+	height:15px;
+	width:200px;
+	background:#ffffff;
+	margin-top:5px;
+}
+
+#servicos .box {
+	display:inline-block;
+	margin:0px 20px 20px 10px;
+}
+
+#servicos .inner {
+	display:block;
+	padding:10px 10px 0px 10px;
+	background:#ffffff;
+	height:180px;
+	border:1px solid #1f1f1f;
+}
+
+#servicos .inner:hover {
+	background:#FAFAFA;
+	cursor:pointer;
+}
+
+
+
+

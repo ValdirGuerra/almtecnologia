@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: http://almtecnologia.com.br/sitemap.xml
+Disallow: /classes/
+Disallow: /services/
+Disallow: /sources/
