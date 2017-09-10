@@ -4,23 +4,22 @@
 	<loc>http://almtecnologia.com.br</loc> 
   </url>
   <url>
+	  <loc>http://almtecnologia.com.br/nozzlesfeeders</loc> 
+  </url>
+  <url>
+	<loc>http://almtecnologia.com.br/esd</loc> 
+  </url>
+  <url>
 	<loc>http://almtecnologia.com.br/sobre</loc> 
   </url>
   <url>
 	<loc>http://almtecnologia.com.br/produtos</loc> 
   </url>
-  <url>
-	<loc>http://almtecnologia.com.br/smt</loc> 
-  </url>
+ 
   <url>
 	<loc>http://almtecnologia.com.br/semicondutores</loc> 
   </url>
-  <url>
-	<loc>http://almtecnologia.com.br/nozzlesfeeders</loc> 
-  </url>
-  <url>
-	<loc>http://almtecnologia.com.br/esd</loc> 
-  </url>
+  
   <url>
 	<loc>http://almtecnologia.com.br/spareparts</loc> 
   </url>
@@ -29,5 +28,8 @@
   </url>
   <url>
 	<loc>http://almtecnologia.com.br/contato</loc> 
+  </url>
+   <url>
+	<loc>http://almtecnologia.com.br/smt</loc> 
   </url>
 </urlset>
