@@ -2,7 +2,7 @@
 /**
 *  Intelligy Networks - Todos os Direitos Reservados
 *  Autor:  Valdir C. Guerra
-*  Data de Criação: 28/01/2018
+*  Data de Criação: 28/01/2015
 *
 *  Versao: 1.0
 *
@@ -53,7 +53,7 @@ if (isset($_REQUEST['action'])) {
 	<div id="topLine"></div>
 	
 	<div id="header-bars">
-		<a href='.'>CONTATOS <?=Empresa::$empresaFoneBR?></a> 
+		<a href='.'>CONTATO <?=Empresa::$empresaFoneBR?></a> 
 	</div>
 	
 	<div id="header-logo">
@@ -90,7 +90,7 @@ if (isset($_REQUEST['action'])) {
 	</div>
 	<div id="header-menu-mobile" style="display:none" >
 			<select id="menuMobile" onchange="onChangeMenuMobile()" >
-				<option value="./">HOMES</option>
+				<option value="./">HOME</option>
 				<option <?=(Link::getID($action) == 20?"selected":"")?> value="<?=Link::getLink(20)?>"><?=Link::getLinkNameToUPPER(20)?></option>
 				<option <?=( ( (Link::getID($action) >= 30) && (Link::getID($action) <= 39)  )      ?"selected":"")?> value="<?=Link::getLink(30)?>"><?=Link::getLinkNameToUPPER(30)?></option>
 				<option <?=( ( (Link::getID($action) >= 40) && (Link::getID($action) <= 49)  )		?"selected":"")?> value="<?=Link::getLink(40)?>"><?=Link::getLinkNameToUPPER(40)?></option>
