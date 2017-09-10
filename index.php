@@ -58,7 +58,7 @@ isso vair ser a mudança para
 	<div id="topLine"></div>
 	
 	<div id="header-bars">
-		<a href='.'>CONTATO <?=Empresa::$empresaFoneBR?></a> 
+		<a href='.'><span style="font-weight:2px">NOSSOS AMIGOS</s><?=Empresa::$empresaFoneBR?></a> 
 	</div>
 	
 	<div id="header-logo">
