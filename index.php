@@ -20,7 +20,7 @@ if (isset($_REQUEST['action'])) {
 	$action = "";
 }
 ?>
-1-change 2
+1-change 2 this a new feature
 
 <!DOCTYPE html>
 <html>
