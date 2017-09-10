@@ -21,6 +21,7 @@ if (isset($_REQUEST['action'])) {
 }
 ?>
 1-change 2 this a new feature
+this is a short_version 
 
 <!DOCTYPE html>
 <html>
